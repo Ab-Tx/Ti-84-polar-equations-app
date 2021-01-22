@@ -24,12 +24,12 @@ This repo provides three applications for the Ti-84 graphic calculator that may 
   -If you press "1" the variable values will be listed again and you'll be able to enter another operation. If you press "0" the app execution will end, the values you entered will still be on the variables.
   
   
-- "Ret2Pol" app will convret a number in Rectangular form to Polar form.
+- "Ret2Pol" app will convret a number in Rectangular form to Polar form. (The number inserted will be saved on the variable "B" afterwards)
 
     ![image](https://user-images.githubusercontent.com/60508542/105497477-cc84f180-5cb6-11eb-943e-0d1f54933792.png)
 
 
-- "Pol2Ret" app will convert a number in Polar form to Rectangular form.
+- "Pol2Ret" app will convert a number in Polar form to Rectangular form. (The number inserted will be saved on the variable "A" afterwards)
     
     ![image](https://user-images.githubusercontent.com/60508542/105497128-5da79880-5cb6-11eb-88bc-578e95cc83d8.png)  ![image](https://user-images.githubusercontent.com/60508542/105497138-6009f280-5cb6-11eb-9302-4d375ba3c9c1.png)
 
